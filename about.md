@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: О сайте
 ---
 
-Something about me.
+В будущем где-то здесь будут новости
